@@ -53,12 +53,5 @@ I'm currently improving my:
 
 ---
 
-## 📫 Let’s Connect
-If you’d like to collaborate or just say hi, feel free to reach out!
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-🔗 **Portfolio / Website:** https://yourportfolio.com
-
----
 
 *Thanks for visiting my GitHub! 🚀*
